@@ -41,5 +41,5 @@ def main():
         thread = threading.Thread(target=handle_cliente, args=(cliente,))
         thread.start()
 
-if name == "main":
+if __name__ == "__main__":
     main()

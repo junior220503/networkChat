@@ -26,5 +26,5 @@ def main():
     thread_enviar = threading.Thread(target=enviar_mensagens, args=(cliente,))
     thread_enviar.start()
 
-if name == "main":
+if __name__ == "__main__":
     main()
