@@ -1,4 +1,4 @@
-# 📹 Projeto de Redes de Computadores
+# Projeto de Redes de Computadores
 
 ## 👨‍🎓 Alunos
 
